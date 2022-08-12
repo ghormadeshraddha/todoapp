@@ -16,7 +16,7 @@ body {
 }
 
 .main_div h1 {
-  margin-bottom:10px;
+  margin-bottom: 10px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: wheat;
@@ -30,12 +30,13 @@ body {
   right: 10px;
   font-size: 15px;
 }
-.main_div Button:hover{
+
+.main_div Button:hover {
   background-color: darkslategray;
 }
 
 .list-item {
- width: 26rem; 
+  width: 380px;
   height: 33px;
   margin-top: 25px;
   font-size: 18px;
@@ -51,14 +52,15 @@ body {
 
 .delete-btn {
   top: 26px;
- margin-right: 22px;
+  /* margin-right: 20px; */
+  margin-left: 10px;
 }
 
-.removebtn{
+.removebtn {
   left: 36%;
 }
 
-.dark_mode_btn{
+.dark_mode_btn {
   left: 90%;
- 
+
 }
