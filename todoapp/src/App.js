@@ -71,7 +71,7 @@ const addTask = (event) =>{
    
     <h1> TODO APP </h1>
 
-      <Input type="text" placeholder="New Task" size="large" value={item} onChange={addTask}/>
+      <Input type="text" placeholder="✍️Add New Task..." size="large" value={item} onChange={addTask}/>
 
       <Button className="addbtn" onClick={addList} size="large">ADD</Button>
 
