@@ -16,7 +16,7 @@ function App() {
 
 // enable dark mode//
 const enableDarkMode = () =>{
-  if(mystyle.color== 'white'){
+  if(mystyle.color == 'white'){
     setMystyle({
       color:'black',
       backgroundColor: 'dimgray',

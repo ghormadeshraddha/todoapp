@@ -11,7 +11,7 @@ body {
 }
 
 .main_div Input {
-  width: 26rem;
+  width: 300px;
   left: 50px;
 }
 
@@ -52,7 +52,6 @@ body {
 
 .delete-btn {
   top: 26px;
-  /* margin-right: 20px; */
   margin-left: 10px;
 }
 
